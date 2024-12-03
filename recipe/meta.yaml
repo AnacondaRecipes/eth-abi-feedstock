@@ -19,6 +19,7 @@ requirements:
   host:
     - pip
     - python
+    - setuptools
     - wheel
   run:
     - eth-typing >=3.0.0
